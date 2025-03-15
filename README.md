@@ -17,15 +17,15 @@ API_SECRET = ""
 
 CLOUDINARY_URL=
 
-Run these in the server repository
+Run these in the server folder
 - npm install dotenv
 - npm install cloudinary
 - npm install express
 
-After running these commands run "node app" in the server repository
+After running these commands run "node app" in the server folder
 
 Open another terminal
 
-Run "npm run build" in the client repository if this is your first time using the app
+Run "npm run build" in the client folder if this is your first time using the app
 
-Run "npm run dev" in the client repository to open the app in browser
+Run "npm run dev" in the client folder to open the app in browser
