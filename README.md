@@ -11,6 +11,7 @@ Add following line in the beginning of uploadimage.js if you want to use a .env 
 
 
 CLOUD_NAME = 
+
 API_KEY= ""
 
 API_SECRET = ""
